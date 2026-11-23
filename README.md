@@ -1,5 +1,6 @@
-## I'm a Leeds Beckett student aiming to learn more about python cuz it looks fun and that about it tbh 
-## "making failure my friend" - some random guy idk
+## I'm a Leeds Beckett student aiming to learn more about python cuz it looks fun and thats about it tbh 
+#### "making failure my friend" - some random guy idk
+### @yag_will (insta)
 
 <!--
 **yaya00000/yaya00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
