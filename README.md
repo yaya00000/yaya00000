@@ -1,4 +1,5 @@
-## Hi there 👋
+## I'm a Leeds Beckett student aiming to learn more about python cuz it looks fun and that about it tbh 
+## "making failure my friend" - some random guy idk
 
 <!--
 **yaya00000/yaya00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
